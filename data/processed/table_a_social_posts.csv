@@ -1,0 +1,501 @@
+post_id,brand,platform,campaign,content_type,product_category,likes,comments_count,shares,views,days_since_post,spend,revenue,roas,cpa,city
+POST_0001,Breakout,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,710,19,55,20307,16,9845.98,27591.01,2.8,410.25,Rawalpindi
+POST_0002,Khaadi Luxury,Google,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,223,4,20,3447,24,3253.48,43778.2,13.46,295.77,Islamabad
+POST_0003,Limelight,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,350,5,54,3827,41,4953.67,11648.83,2.35,1238.42,Islamabad
+POST_0004,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,622,8,57,7170,31,4184.35,49342.5,11.79,130.76,Lahore
+POST_0005,Limelight Official,Facebook,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,97,2,9,2797,42,1093.45,4829.92,4.42,546.73,Lahore
+POST_0006,Sapphire Direct,Facebook,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,689,13,30,19688,22,8213.42,36440.48,4.44,456.3,Karachi
+POST_0007,The Tote Bag Club PK,TikTok,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,691,12,100,12646,57,2888.02,10407.83,3.6,262.55,Karachi
+POST_0008,The Tote Bag Club PK,Facebook,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,277,5,28,7348,48,2894.7,6515.67,2.25,723.67,Karachi
+POST_0009,Sapphire,TikTok,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,1654,22,191,25022,51,4911.82,12457.14,2.54,491.18,Lahore
+POST_0010,Sapphire Festive,TikTok,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,620,13,75,15383,16,2683.49,8989.24,3.35,447.25,Lahore
+POST_0011,Khaadi Luxury,Instagram,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,289,8,15,7554,29,3736.27,10115.72,2.71,934.07,Peshawar
+POST_0012,The Tote Bag Club PK,YouTube,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,870,12,89,24863,29,10676.76,5889.57,0.55,3558.92,Peshawar
+POST_0013,Khaadi Luxury,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,453,7,46,4595,29,4743.94,23596.31,4.97,677.71,Karachi
+POST_0014,Sapphire Festive,Google,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,415,8,70,5924,35,5346.8,22572.35,4.22,891.13,Karachi
+POST_0015,Outfitters Clearance,Google,Flash_Clearance_Sale,Styling Video,Clearance Pret Kurti,164,3,19,2354,35,2420.8,7567.14,3.13,605.2,Karachi
+POST_0016,Sapphire Festive,TikTok,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,591,14,77,16891,31,3379.51,4550.87,1.35,1126.5,Karachi
+POST_0017,Outfitters,Instagram,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,182,5,29,4783,18,2670.04,11625.72,4.35,242.73,Lahore
+POST_0018,Sapphire,Google,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,132,2,10,1330,33,1609.96,2630.33,1.63,1609.96,Karachi
+POST_0019,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,166,5,24,3654,42,4430.58,22263.99,5.03,632.94,Karachi
+POST_0020,Limelight Official,Facebook,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,716,12,112,15049,39,7623.65,83114.07,10.9,282.36,Karachi
+POST_0021,Outfitters Clearance,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,261,8,37,7458,23,4256.22,10645.67,2.5,532.03,Karachi
+POST_0022,Breakout Sale,Instagram,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,251,3,18,3301,3,1550.3,5010.74,3.23,516.77,Islamabad
+POST_0023,Outfitters,Facebook,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,1318,20,126,27782,55,11845.4,27773.56,2.34,696.79,Karachi
+POST_0024,Breakout Sale,Facebook,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,785,17,45,21455,28,10177.52,52117.39,5.12,462.61,Islamabad
+POST_0025,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,579,8,84,5157,45,5886.6,29089.06,4.94,588.66,Karachi
+POST_0026,Breakout,Facebook,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,806,16,77,19538,11,10970.77,35625.75,3.25,577.41,Karachi
+POST_0027,Outfitters,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,138,3,10,2212,42,2435.84,9995.34,4.1,608.96,Rawalpindi
+POST_0028,Sapphire Festive,TikTok,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,1196,27,104,28973,59,7156.22,14213.13,1.99,1022.32,Sialkot
+POST_0029,Sapphire,TikTok,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,230,4,38,4594,39,831.32,1887.65,2.27,415.66,Lahore
+POST_0030,Khaadi Luxury,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,62,1,5,1217,50,1061.09,8566.82,8.07,530.54,Karachi
+POST_0031,Sapphire Direct,Facebook,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,755,10,79,12500,49,5808.16,15715.98,2.71,829.74,Faisalabad
+POST_0032,Generation,Google,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,431,8,32,6307,25,6403.86,48196.44,7.53,711.54,Lahore
+POST_0033,Outfitters Clearance,Google,Flash_Clearance_Sale,Influencer Post,Clearance Pret Kurti,167,2,12,1621,46,1598.29,4959.68,3.1,799.14,Islamabad
+POST_0034,Limelight Official,Google,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,241,5,24,4001,25,3599.22,8707.74,2.42,1199.74,Karachi
+POST_0035,Breakout Sale,Google,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,85,1,12,1170,43,1263.9,9420.35,7.45,252.78,Lahore
+POST_0036,Generation,YouTube,Eid_Festive_Collection,Sale Announcement,Luxury Festive Silk Pret,943,11,146,26947,39,9030.84,3718.59,0.41,9030.84,Peshawar
+POST_0037,Khaadi Luxury,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,199,2,27,1652,19,2036.65,5449.54,2.68,2036.65,Karachi
+POST_0038,Khaadi,Google,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,408,5,44,3877,50,4090.08,29658.51,7.25,511.26,Lahore
+POST_0039,Breakout,Facebook,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,227,4,27,6490,32,2343.39,10323.98,4.41,334.77,Lahore
+POST_0040,Breakout,Instagram,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,587,13,44,11500,9,6160.74,28600.02,4.64,280.03,Lahore
+POST_0041,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,274,4,37,4579,10,2235.27,8496.54,3.8,319.32,Karachi
+POST_0042,Breakout Sale,Instagram,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,560,7,42,6157,57,3328.02,16638.43,5.0,277.33,Karachi
+POST_0043,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,1192,14,67,13657,50,7094.17,44008.06,6.2,262.75,Karachi
+POST_0044,Sapphire Direct,TikTok,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,1359,20,143,20195,4,4781.24,17119.73,3.58,251.64,Karachi
+POST_0045,Breakout Sale,Instagram,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,311,10,31,8717,22,5302.32,19977.5,3.77,311.9,Lahore
+POST_0046,Generation,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,497,7,87,4810,32,5130.86,40413.18,7.88,570.1,Rawalpindi
+POST_0047,Engine Outlet,Instagram,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,241,7,18,6639,9,3323.93,15918.45,4.79,221.6,Karachi
+POST_0048,Limelight,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,215,5,25,3523,20,4057.72,17914.29,4.41,811.54,Islamabad
+POST_0049,Khaadi,Instagram,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,474,9,33,9167,55,4869.59,4054.86,0.83,2434.8,Sialkot
+POST_0050,The Tote Bag Club PK,TikTok,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,438,8,71,8354,57,1667.66,2615.33,1.57,555.89,Karachi
+POST_0051,Gul Ahmed,YouTube,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,313,4,36,8963,31,3614.55,0.0,0.0,1136.65,Karachi
+POST_0052,Sapphire Festive,Instagram,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,658,12,110,11612,26,6098.89,26151.86,4.29,554.44,Karachi
+POST_0053,Breakout Sale,Google,Flash_Clearance_Sale,Styling Video,Clearance Pret Kurti,547,11,28,6904,23,9133.33,44953.16,4.92,570.83,Karachi
+POST_0054,Gul Ahmed,TikTok,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,340,8,51,9720,20,1613.18,2701.06,1.67,806.59,Islamabad
+POST_0055,Sapphire,Instagram,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,800,14,60,12245,18,7924.19,28507.77,3.6,440.23,Lahore
+POST_0056,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,519,11,71,9543,3,5249.58,78504.53,14.95,128.04,Karachi
+POST_0057,Breakout,Google,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,398,5,23,3791,8,4243.26,14349.06,3.38,707.21,Islamabad
+POST_0058,Khaadi,Facebook,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,290,5,28,8299,14,3556.91,15286.75,4.3,592.82,Karachi
+POST_0059,Gul Ahmed,TikTok,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,744,13,37,15897,50,3086.39,5463.57,1.77,771.6,Islamabad
+POST_0060,Generation,Google,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,91,2,14,1983,60,2055.62,9185.22,4.47,1027.81,Lahore
+POST_0061,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,79,2,3,2258,33,1064.23,5124.63,4.82,354.74,Islamabad
+POST_0062,Sapphire Festive,Facebook,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,86,1,14,2368,46,873.98,0.0,0.0,693.63,Lahore
+POST_0063,Engine Outlet,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,90,2,8,2320,8,1127.87,3422.4,3.03,375.96,Peshawar
+POST_0064,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,1198,17,84,15162,30,9611.9,25725.9,2.68,686.56,Karachi
+POST_0065,Khaadi,Facebook,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,641,9,38,10538,10,4511.8,11360.95,2.52,902.36,Karachi
+POST_0066,Breakout,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,262,3,27,3097,51,1822.34,6267.93,3.44,455.58,Islamabad
+POST_0067,Limelight Official,Google,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,539,10,56,7106,3,8134.77,42232.37,5.19,508.42,Karachi
+POST_0068,Generation,Facebook,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,428,5,48,6586,31,2673.47,7577.63,2.83,891.16,Peshawar
+POST_0069,Sapphire Festive,YouTube,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,87,1,8,2508,48,1020.5,0.0,0.0,1020.5,Islamabad
+POST_0070,Breakout Sale,Facebook,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,313,7,54,8965,45,3457.66,10018.45,2.9,576.28,Islamabad
+POST_0071,Gul Ahmed,Facebook,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,152,3,13,4367,44,2203.69,10021.19,4.55,440.74,Karachi
+POST_0072,Breakout Sale,Facebook,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,318,5,22,7157,44,2935.71,10873.62,3.7,489.29,Karachi
+POST_0073,Generation,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,483,9,57,13019,51,4979.13,28619.36,5.75,553.24,Karachi
+POST_0074,Khaadi Luxury,TikTok,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,400,5,70,6855,7,1133.46,1731.34,1.53,1133.46,Karachi
+POST_0075,Engine Outlet,TikTok,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,1968,23,242,28949,58,6113.13,10809.07,1.77,509.43,Karachi
+POST_0076,Khaadi Luxury,Instagram,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,253,7,23,5993,47,2952.23,17295.74,5.86,421.75,Lahore
+POST_0077,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,424,8,40,7234,42,3827.5,31134.97,8.13,273.39,Islamabad
+POST_0078,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,591,10,56,8766,21,5495.05,29775.8,5.42,392.5,Karachi
+POST_0079,Khaadi Online,Google,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,90,1,13,1076,43,962.14,0.0,0.0,916.32,Faisalabad
+POST_0080,Breakout,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,335,7,39,4076,39,4899.47,12300.01,2.51,979.89,Islamabad
+POST_0081,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,128,3,13,3016,4,3209.88,19063.4,5.94,534.98,Multan
+POST_0082,Breakout,Facebook,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,186,3,19,4653,37,1968.29,6831.74,3.47,656.1,Islamabad
+POST_0083,Breakout,Instagram,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,425,5,43,4452,53,2371.38,20260.61,8.54,197.62,Islamabad
+POST_0084,Limelight,Facebook,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,589,10,73,15423,25,6821.15,24469.47,3.59,682.12,Lahore
+POST_0085,Generation,Google,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,337,4,28,2696,43,3395.04,22235.07,6.55,679.01,Islamabad
+POST_0086,Breakout,YouTube,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,204,2,17,5844,10,2219.61,1907.72,0.86,2219.61,Karachi
+POST_0087,Limelight,Instagram,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,965,19,87,20588,13,11341.59,53512.89,4.72,453.66,Lahore
+POST_0088,Outfitters Clearance,Instagram,Flash_Clearance_Sale,Influencer Post,Clearance Pret Kurti,607,13,92,11751,32,6870.77,34800.31,5.06,254.47,Lahore
+POST_0089,Generation,Facebook,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,1086,14,86,18403,50,8237.71,22048.41,2.68,1176.82,Faisalabad
+POST_0090,Khaadi Online,YouTube,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,752,11,117,21497,46,8980.71,23302.2,2.59,997.86,Lahore
+POST_0091,Khaadi,TikTok,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,267,7,34,7639,41,1373.33,2441.68,1.78,686.66,Karachi
+POST_0092,Outfitters Clearance,Instagram,Flash_Clearance_Sale,Influencer Post,Clearance Pret Kurti,68,1,9,1578,35,864.56,7328.54,8.48,172.91,Multan
+POST_0093,Khaadi,Instagram,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,285,3,13,3202,26,1722.6,11270.64,6.54,246.09,Faisalabad
+POST_0094,Khaadi Luxury,Google,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,230,3,12,2281,39,2878.78,16656.61,5.79,719.7,Faisalabad
+POST_0095,Generation,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,798,11,83,10969,46,5331.76,22558.82,4.23,666.47,Karachi
+POST_0096,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,725,10,33,6846,43,7249.8,24451.54,3.37,724.98,Karachi
+POST_0097,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,444,7,68,7041,36,3653.98,8247.0,2.26,609.0,Rawalpindi
+POST_0098,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,116,3,18,2363,24,2795.98,6475.81,2.32,1397.99,Karachi
+POST_0099,Outfitters Clearance,Facebook,Flash_Clearance_Sale,Styling Video,Clearance Pret Kurti,91,2,10,2393,49,932.25,5296.26,5.68,466.12,Lahore
+POST_0100,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,371,5,16,4861,6,2173.59,15549.94,7.15,241.51,Lahore
+POST_0101,Breakout Sale,Google,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,138,2,16,1538,35,1507.3,6837.44,4.54,502.43,Lahore
+POST_0102,Khaadi Luxury,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,751,15,107,21474,33,10048.34,22743.28,2.26,1435.48,Islamabad
+POST_0103,Sapphire,TikTok,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,1948,27,268,33229,13,6410.12,14104.36,2.2,427.34,Lahore
+POST_0104,Sapphire Festive,YouTube,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,103,1,9,2965,35,1084.49,4343.8,4.01,1084.49,Karachi
+POST_0105,Sapphire Direct,Google,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,638,10,74,6547,10,7353.21,82211.92,11.18,408.51,Islamabad
+POST_0106,Engine Outlet,YouTube,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,321,4,22,9195,38,3501.89,6536.36,1.87,1167.3,Lahore
+POST_0107,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,178,4,27,3643,27,1842.1,3475.2,1.89,921.05,Islamabad
+POST_0108,Limelight,Google,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,384,8,23,6171,57,6752.0,33106.42,4.9,613.82,Karachi
+POST_0109,Sapphire,Facebook,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,75,1,6,2171,26,844.59,7768.48,9.2,281.53,Karachi
+POST_0110,Breakout Sale,Instagram,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,462,6,28,5240,22,2689.23,21730.58,8.08,206.86,Rawalpindi
+POST_0111,Sapphire Festive,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,290,5,30,5440,17,2576.66,28169.71,10.93,257.67,Rawalpindi
+POST_0112,Khaadi Online,Google,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,186,5,14,3465,25,4085.93,24905.91,6.1,583.7,Karachi
+POST_0113,Generation,Facebook,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,96,2,9,2364,37,1064.06,6164.79,5.79,532.03,Islamabad
+POST_0114,Outfitters,Facebook,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,311,4,27,5284,25,2362.06,9758.2,4.13,393.68,Karachi
+POST_0115,The Tote Bag Club PK,TikTok,ToteBag_Uni_Special,Reel,Canvas Tote Bag,248,5,21,7088,32,1319.86,3625.23,2.75,263.97,Peshawar
+POST_0116,Breakout,Google,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,392,5,48,3872,34,3697.94,17278.88,4.67,528.28,Karachi
+POST_0117,Engine Outlet,TikTok,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,302,5,25,6733,59,1158.34,2576.29,2.22,386.11,Faisalabad
+POST_0118,Engine Outlet,Instagram,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,864,15,97,14180,48,8746.17,26160.75,2.99,437.31,Lahore
+POST_0119,Limelight,Instagram,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,148,3,25,2984,31,1481.43,10124.65,6.83,246.91,Karachi
+POST_0120,Limelight,Instagram,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,364,4,28,4012,21,2140.27,16845.26,7.87,214.03,Lahore
+POST_0121,Gul Ahmed,TikTok,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,628,13,107,12999,52,2683.39,6307.35,2.35,536.68,Lahore
+POST_0122,Sapphire,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,572,9,69,8307,17,4636.41,7295.83,1.57,1159.1,Lahore
+POST_0123,Sapphire,Facebook,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,297,5,38,8502,60,3531.26,14073.68,3.99,504.47,Faisalabad
+POST_0124,Sapphire Festive,Instagram,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,204,4,22,4108,49,1862.96,10875.88,5.84,372.59,Lahore
+POST_0125,Limelight,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,570,10,62,8512,10,5189.16,23768.71,4.58,471.74,Lahore
+POST_0126,Sapphire,YouTube,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,1048,14,173,29405,54,12070.01,25272.08,2.09,1207.0,Peshawar
+POST_0127,Khaadi,Instagram,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,1234,26,119,22948,34,15177.22,44218.7,2.91,607.09,Lahore
+POST_0128,Sapphire Direct,TikTok,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,1125,19,116,19201,5,4851.52,12012.98,2.48,539.06,Islamabad
+POST_0129,Engine Outlet,Facebook,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,575,8,32,9575,36,4651.33,16084.22,3.46,422.85,Lahore
+POST_0130,Outfitters Clearance,Instagram,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,481,10,37,9715,58,4679.06,24259.39,5.18,311.94,Karachi
+POST_0131,Khaadi,Instagram,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,285,5,32,5212,50,2513.24,5058.98,2.01,837.75,Lahore
+POST_0132,Khaadi Online,Google,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,76,1,7,891,19,880.2,0.0,0.0,880.2,Faisalabad
+POST_0133,Limelight,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,159,2,28,2083,43,2228.69,12242.9,5.49,445.74,Karachi
+POST_0134,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,384,8,23,6343,26,3830.93,27992.68,7.31,294.69,Lahore
+POST_0135,Khaadi Luxury,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,209,3,35,4703,56,1627.86,0.0,0.0,695.67,Karachi
+POST_0136,Khaadi Online,YouTube,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,265,3,33,7583,4,2688.73,3140.77,1.17,2688.73,Karachi
+POST_0137,Sapphire,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,235,5,39,4016,21,3982.66,17290.88,4.34,796.53,Sialkot
+POST_0138,Engine Outlet,Instagram,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,92,2,9,1894,43,938.87,3994.63,4.25,312.96,Lahore
+POST_0139,Breakout,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,704,13,107,8712,48,10697.38,57931.58,5.42,509.4,Islamabad
+POST_0140,Outfitters,Google,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,146,2,19,1508,18,1785.26,11901.38,6.67,297.54,Faisalabad
+POST_0141,Breakout,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,137,2,19,1863,24,1998.89,4813.33,2.41,999.45,Karachi
+POST_0142,Khaadi Luxury,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,386,4,68,4209,5,2351.2,18521.42,7.88,293.9,Karachi
+POST_0143,Limelight,Instagram,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,718,10,51,9800,47,4838.34,18996.69,3.93,537.59,Karachi
+POST_0144,Sapphire Festive,Facebook,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,263,3,26,5459,60,2077.7,14831.78,7.14,415.54,Karachi
+POST_0145,Sapphire,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,491,9,75,6635,19,6415.01,20760.31,3.24,712.78,Peshawar
+POST_0146,Outfitters,TikTok,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,1062,17,50,22159,2,4014.11,7819.94,1.95,446.01,Islamabad
+POST_0147,Sapphire,YouTube,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,449,5,42,12119,59,5480.82,16319.7,2.98,1096.16,Karachi
+POST_0148,Sapphire Direct,Facebook,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,212,2,18,3700,51,1648.63,14002.78,8.49,274.77,Karachi
+POST_0149,Khaadi,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,177,4,31,3990,33,1836.97,9070.04,4.94,306.16,Lahore
+POST_0150,Sapphire Festive,Instagram,Eid_Festive_Collection,Sale Announcement,Luxury Festive Silk Pret,276,7,20,6163,6,2797.7,8190.19,2.93,932.57,Lahore
+POST_0151,Gul Ahmed,YouTube,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,387,4,30,11084,10,4229.43,3060.99,0.72,4229.43,Karachi
+POST_0152,The Tote Bag Club PK,TikTok,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,1103,18,136,20441,52,4121.83,9288.07,2.25,343.49,Karachi
+POST_0153,Limelight Official,TikTok,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,369,5,24,6816,8,1358.4,3234.91,2.38,452.8,Lahore
+POST_0154,Outfitters,Facebook,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,708,9,41,11862,22,4888.19,14337.47,2.93,611.02,Islamabad
+POST_0155,Sapphire,Facebook,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,908,11,59,14600,51,6049.6,22243.19,3.68,672.18,Islamabad
+POST_0156,Outfitters,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,435,8,53,6763,39,3529.51,12969.44,3.67,294.13,Sialkot
+POST_0157,Outfitters,TikTok,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,940,14,43,15658,43,3081.11,5195.55,1.69,513.52,Faisalabad
+POST_0158,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,457,5,23,3794,55,4312.5,14798.41,3.43,718.75,Lahore
+POST_0159,Breakout Sale,Instagram,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,611,12,84,11926,22,6215.01,16969.45,2.73,478.08,Lahore
+POST_0160,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,433,7,41,6362,49,3250.45,10479.28,3.22,325.04,Lahore
+POST_0161,Sapphire,Instagram,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,150,3,15,3318,18,1470.43,2921.53,1.99,735.22,Karachi
+POST_0162,Breakout,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,721,12,63,8356,56,10568.93,29654.7,2.81,754.92,Lahore
+POST_0163,Outfitters,Instagram,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,380,7,43,6320,60,3328.53,10307.51,3.1,369.84,Lahore
+POST_0164,Sapphire Festive,Instagram,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,220,5,20,5521,37,2616.18,5275.41,2.02,1308.09,Karachi
+POST_0165,Khaadi Online,Facebook,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,114,2,16,3274,20,1296.52,8628.28,6.65,324.13,Lahore
+POST_0166,Breakout Sale,YouTube,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,482,7,69,13773,51,5002.17,20531.33,4.1,500.22,Karachi
+POST_0167,Breakout,Google,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,434,5,23,3312,55,4097.08,30685.0,7.49,409.71,Lahore
+POST_0168,Sapphire,YouTube,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,244,3,29,6977,24,2842.2,0.0,0.0,1263.2,Lahore
+POST_0169,Sapphire,Facebook,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,222,3,26,4174,36,1546.28,4844.19,3.13,773.14,Islamabad
+POST_0170,Khaadi Luxury,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,468,11,74,7033,59,8535.68,63277.79,7.41,609.69,Lahore
+POST_0171,Breakout Sale,Facebook,Flash_Clearance_Sale,Styling Video,Clearance Pret Kurti,620,12,31,16437,52,6989.67,38522.09,5.51,317.71,Faisalabad
+POST_0172,Sapphire,TikTok,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,3279,42,358,52208,22,9937.29,21846.03,2.2,552.07,Karachi
+POST_0173,Breakout,Instagram,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,80,2,7,2106,15,976.62,2505.7,2.57,488.31,Rawalpindi
+POST_0174,Breakout,Facebook,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,93,1,6,2231,59,1026.35,6235.32,6.08,342.12,Islamabad
+POST_0175,Sapphire Festive,Google,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,183,3,31,2348,22,2721.14,11322.47,4.16,907.05,Karachi
+POST_0176,Sapphire Festive,Google,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,144,2,18,1685,51,1823.44,14542.83,7.98,607.81,Lahore
+POST_0177,Outfitters Clearance,Facebook,Flash_Clearance_Sale,Influencer Post,Clearance Pret Kurti,156,2,22,3309,20,1656.29,3498.25,2.11,828.14,Rawalpindi
+POST_0178,Outfitters,TikTok,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,145,4,15,4157,40,882.5,1652.26,1.87,441.25,Multan
+POST_0179,Outfitters,YouTube,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,263,3,38,7520,51,2750.62,9231.68,3.36,687.65,Karachi
+POST_0180,The Tote Bag Club PK,YouTube,ToteBag_Uni_Special,Reel,Canvas Tote Bag,297,3,51,8502,27,2979.17,19222.79,6.45,425.6,Islamabad
+POST_0181,Outfitters,Instagram,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,178,3,23,3222,36,1632.16,11233.42,6.88,204.02,Lahore
+POST_0182,Sapphire,Facebook,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,228,3,21,4804,42,1996.11,0.0,0.0,707.84,Karachi
+POST_0183,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,218,5,36,4504,9,2194.97,14978.05,6.82,313.57,Lahore
+POST_0184,Engine Outlet,TikTok,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,1410,33,154,40295,24,8790.82,13987.99,1.59,676.22,Islamabad
+POST_0185,Khaadi,Instagram,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,849,17,93,17929,59,8494.74,31424.32,3.7,404.51,Lahore
+POST_0186,Sapphire,Facebook,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,1255,25,197,34811,58,16863.51,53954.94,3.2,766.52,Karachi
+POST_0187,Sapphire,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,87,2,4,1643,30,1890.79,2684.29,1.42,1890.79,Karachi
+POST_0188,Limelight Official,YouTube,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,1411,17,97,36779,21,15037.67,69719.33,4.64,791.46,Karachi
+POST_0189,Khaadi Online,Google,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,48,1,2,1024,51,971.7,7286.0,7.5,485.85,Karachi
+POST_0190,Outfitters Clearance,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,481,10,61,10148,43,4900.36,31108.4,6.35,245.02,Lahore
+POST_0191,Limelight,YouTube,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,448,5,19,12818,45,4148.55,3111.45,0.75,4148.55,Karachi
+POST_0192,Generation,Instagram,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,95,2,7,1933,28,1012.95,0.0,0.0,625.28,Karachi
+POST_0193,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,95,2,6,2651,58,1172.37,8271.85,7.06,293.09,Lahore
+POST_0194,Sapphire Festive,Google,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,215,3,19,1919,36,2332.43,17024.9,7.3,583.11,Lahore
+POST_0195,The Tote Bag Club PK,YouTube,ToteBag_Uni_Special,Reel,Canvas Tote Bag,140,1,9,4004,59,1317.62,2045.72,1.55,1317.62,Lahore
+POST_0196,Sapphire Festive,TikTok,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,909,16,81,19955,39,3354.37,14250.65,4.25,419.3,Lahore
+POST_0197,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,204,7,9,5857,40,2779.02,26157.34,9.41,213.77,Karachi
+POST_0198,Khaadi Online,TikTok,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,563,14,78,16100,11,3445.79,10322.3,3.0,430.72,Lahore
+POST_0199,Engine Outlet,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,182,3,25,3471,20,1648.95,17912.96,10.86,164.9,Lahore
+POST_0200,Limelight,Facebook,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,84,1,10,2422,60,968.19,11626.02,12.01,193.64,Lahore
+POST_0201,Sapphire Festive,YouTube,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,977,13,106,27941,23,12543.27,23255.15,1.85,2090.55,Karachi
+POST_0202,Sapphire,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,116,2,10,1484,36,1372.89,7823.89,5.7,457.63,Karachi
+POST_0203,Breakout,YouTube,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,681,9,48,19481,30,7168.44,9641.77,1.35,1433.69,Quetta
+POST_0204,Limelight Official,Google,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,120,2,15,1622,40,1527.04,3780.18,2.48,1527.04,Islamabad
+POST_0205,Outfitters,Google,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,103,1,10,822,37,909.55,7969.16,8.76,303.18,Islamabad
+POST_0206,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,177,4,12,2933,5,2955.04,11992.61,4.06,591.01,Multan
+POST_0207,Outfitters,YouTube,ToteBag_Uni_Special,Reel,Canvas Tote Bag,548,8,72,15660,40,5962.73,12346.97,2.07,993.79,Lahore
+POST_0208,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,701,11,66,9537,25,5710.31,13792.07,2.42,713.79,Karachi
+POST_0209,The Tote Bag Club PK,Facebook,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,118,2,11,3395,35,1256.47,6120.03,4.87,418.82,Karachi
+POST_0210,Khaadi Luxury,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,101,2,16,1475,4,1410.57,30084.17,21.33,235.09,Rawalpindi
+POST_0211,Sapphire,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,669,8,68,8016,12,4307.71,14366.25,3.34,615.39,Rawalpindi
+POST_0212,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,151,2,17,2036,56,1901.36,19169.15,10.08,271.62,Islamabad
+POST_0213,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,1007,16,150,15269,9,7933.42,70816.44,8.93,208.77,Karachi
+POST_0214,Sapphire Direct,YouTube,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,633,9,29,18100,32,7572.19,11038.42,1.46,2524.06,Islamabad
+POST_0215,Sapphire Direct,YouTube,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,135,2,16,3879,7,1516.8,5679.05,3.74,758.4,Karachi
+POST_0216,Limelight,YouTube,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,1439,16,222,41120,34,15132.83,16612.82,1.1,3026.57,Rawalpindi
+POST_0217,Limelight,TikTok,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,1660,30,289,32920,32,7302.8,14982.26,2.05,521.63,Karachi
+POST_0218,Outfitters Clearance,Google,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,89,2,7,1537,19,1538.83,13645.96,8.87,219.83,Karachi
+POST_0219,Outfitters,Google,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,174,4,25,3010,59,3738.14,16920.43,4.53,467.27,Karachi
+POST_0220,Breakout,Instagram,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,695,9,53,6843,28,4194.05,17851.82,4.26,322.62,Karachi
+POST_0221,Khaadi Online,TikTok,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,1144,15,74,16857,8,3615.32,7059.0,1.95,516.47,Karachi
+POST_0222,Khaadi Luxury,TikTok,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,1977,33,319,36861,26,8660.53,20212.4,2.33,866.05,Islamabad
+POST_0223,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,108,3,5,3056,20,1522.92,4625.42,3.04,507.64,Karachi
+POST_0224,Sapphire,Google,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,101,1,10,763,50,875.16,2908.7,3.32,875.16,Lahore
+POST_0225,Khaadi Luxury,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,134,2,23,3843,15,1390.11,3210.75,2.31,1390.11,Karachi
+POST_0226,Outfitters Clearance,TikTok,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,2208,31,333,33000,26,8466.41,16018.9,1.89,403.16,Peshawar
+POST_0227,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,415,5,56,4603,32,2453.06,22620.23,9.22,204.42,Rawalpindi
+POST_0228,Generation,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,558,8,93,9753,43,5210.07,13025.27,2.5,1302.52,Lahore
+POST_0229,Sapphire Festive,Instagram,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,311,4,12,4066,10,1773.21,17271.58,9.74,295.54,Lahore
+POST_0230,Khaadi,Facebook,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,390,5,25,7915,27,3319.76,4809.41,1.45,1659.88,Lahore
+POST_0231,Sapphire Festive,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,562,8,99,10821,56,5292.56,36988.21,6.99,529.26,Sialkot
+POST_0232,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,464,9,22,7377,43,4271.79,40234.17,9.42,185.73,Karachi
+POST_0233,Sapphire Direct,Google,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,295,4,31,2927,44,3216.87,38905.7,12.09,201.05,Lahore
+POST_0234,Engine Outlet,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,723,10,116,8090,6,4944.4,12905.27,2.61,494.44,Karachi
+POST_0235,Limelight,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,92,2,16,1494,49,1386.94,6151.92,4.44,693.47,Karachi
+POST_0236,Limelight,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,1101,18,44,16013,7,9053.25,30452.17,3.36,646.66,Karachi
+POST_0237,Generation,Google,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,154,2,7,1747,12,1654.92,4545.6,2.75,1654.92,Karachi
+POST_0238,Khaadi Online,Google,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,177,2,11,2019,56,1933.82,14146.31,7.32,322.3,Gujranwala
+POST_0239,Gul Ahmed,YouTube,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,704,9,32,20132,42,8553.56,4819.54,0.56,4276.78,Peshawar
+POST_0240,Outfitters Clearance,YouTube,Flash_Clearance_Sale,Styling Video,Clearance Pret Kurti,71,1,10,2034,8,812.52,6732.36,8.29,270.84,Lahore
+POST_0241,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,106,1,10,1045,40,918.94,2421.86,2.64,918.94,Karachi
+POST_0242,Breakout Sale,Google,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,83,1,6,1298,53,1265.08,9663.96,7.64,316.27,Karachi
+POST_0243,Limelight,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,564,9,81,5561,21,6177.07,31502.11,5.1,561.55,Lahore
+POST_0244,Khaadi,Instagram,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,124,2,15,2148,44,929.4,1904.5,2.05,929.4,Karachi
+POST_0245,Breakout Sale,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,1189,20,51,19694,11,9737.1,50300.35,5.17,278.2,Karachi
+POST_0246,Khaadi,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,474,7,32,5918,57,3276.16,4014.18,1.23,1638.08,Karachi
+POST_0247,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,238,8,41,6608,49,3635.9,30334.62,8.34,242.39,Lahore
+POST_0248,Khaadi Online,Google,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,710,9,87,5659,51,6865.99,91835.63,13.38,274.64,Lahore
+POST_0249,Sapphire,Instagram,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,670,10,57,10498,20,4610.61,21956.47,4.76,512.29,Rawalpindi
+POST_0250,Limelight,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,59,2,9,1357,14,1492.54,12921.69,8.66,373.13,Karachi
+POST_0251,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,424,8,54,6610,15,3707.55,10801.99,2.91,741.51,Islamabad
+POST_0252,The Tote Bag Club PK,Facebook,ToteBag_Uni_Special,Reel,Canvas Tote Bag,315,5,27,8616,7,3358.3,19991.16,5.95,419.79,Lahore
+POST_0253,Khaadi Luxury,Facebook,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,200,3,16,5119,26,2218.06,9890.03,4.46,739.35,Lahore
+POST_0254,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,1231,17,150,15548,46,9519.02,80872.84,8.5,279.97,Rawalpindi
+POST_0255,Khaadi,Instagram,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,190,3,21,2983,7,1408.02,1710.36,1.21,1408.02,Karachi
+POST_0256,Sapphire,TikTok,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,886,20,111,25334,18,5138.27,17923.41,3.49,367.02,Karachi
+POST_0257,Breakout Sale,Google,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,215,4,32,3119,47,3607.99,18286.32,5.07,328.0,Peshawar
+POST_0258,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,437,8,39,5555,21,6735.27,26222.96,3.89,1122.55,Lahore
+POST_0259,Engine Outlet,Instagram,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,598,17,66,17099,3,9492.72,20354.03,2.14,678.05,Islamabad
+POST_0260,Khaadi Online,Google,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,321,4,42,2772,11,2670.39,31226.25,11.69,222.53,Karachi
+POST_0261,Sapphire Festive,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,709,14,32,13863,15,7325.87,44465.47,6.07,385.57,Lahore
+POST_0262,Outfitters,Facebook,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,535,10,57,11765,40,5975.44,9988.63,1.67,1195.09,Islamabad
+POST_0263,Limelight Official,Facebook,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,770,14,82,18555,15,9372.46,24570.5,2.62,781.04,Karachi
+POST_0264,Engine Outlet,Google,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,375,4,26,2944,40,3604.62,26038.86,7.22,300.38,Karachi
+POST_0265,Limelight Official,Google,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,352,5,39,4104,12,4535.98,30827.32,6.8,412.36,Karachi
+POST_0266,Khaadi Online,Facebook,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,482,10,54,13785,60,6220.24,31293.65,5.03,478.48,Islamabad
+POST_0267,Generation,Google,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,417,8,38,5111,4,5214.72,43138.2,8.27,521.47,Lahore
+POST_0268,Sapphire Festive,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,138,2,13,1223,14,1153.08,23017.77,19.96,230.62,Islamabad
+POST_0269,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,486,16,63,13903,46,7981.79,31862.64,3.99,420.09,Lahore
+POST_0270,Khaadi,Facebook,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,862,17,128,24631,12,10957.89,23827.13,2.17,996.17,Karachi
+POST_0271,Limelight Official,Google,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,253,8,37,5356,13,6565.45,40442.48,6.16,468.96,Karachi
+POST_0272,Gul Ahmed,TikTok,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,998,15,176,18278,7,3582.99,10302.03,2.88,447.87,Sialkot
+POST_0273,Gul Ahmed,Facebook,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,692,9,105,12144,18,4563.76,20944.87,4.59,507.08,Rawalpindi
+POST_0274,Gul Ahmed,Facebook,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,888,17,133,23810,16,11927.76,20139.59,1.69,1192.78,Karachi
+POST_0275,Sapphire,Instagram,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,581,14,43,14203,41,7823.01,25551.62,3.27,651.92,Lahore
+POST_0276,Sapphire Festive,Instagram,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,191,3,32,3247,4,1748.76,5940.56,3.4,582.92,Karachi
+POST_0277,Engine Outlet,Instagram,Flash_Clearance_Sale,Influencer Post,Clearance Pret Kurti,315,7,12,6976,45,3319.92,14099.59,4.25,331.99,Lahore
+POST_0278,Breakout,Instagram,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,526,11,57,9318,15,5050.32,19835.82,3.93,315.64,Islamabad
+POST_0279,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,130,2,18,1325,32,1417.77,13165.8,9.29,283.55,Lahore
+POST_0280,Limelight,YouTube,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,90,1,14,2351,35,926.3,0.0,0.0,926.3,Islamabad
+POST_0281,Limelight,Google,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,462,11,74,7801,5,9007.08,33335.62,3.7,818.83,Multan
+POST_0282,Limelight,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,632,13,85,9838,40,10885.67,36139.02,3.32,907.14,Rawalpindi
+POST_0283,Khaadi,Google,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,320,7,26,4896,43,5279.71,20478.15,3.88,754.24,Islamabad
+POST_0284,Sapphire,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,175,4,12,3356,18,3383.17,14995.43,4.43,676.63,Karachi
+POST_0285,Outfitters,Instagram,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,72,2,10,2018,35,1137.18,7517.96,6.61,189.53,Lahore
+POST_0286,Breakout,Google,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,154,4,26,2931,26,3668.35,8132.59,2.22,917.09,Karachi
+POST_0287,The Tote Bag Club PK,YouTube,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,172,2,7,4666,44,1899.05,2334.83,1.23,1899.05,Karachi
+POST_0288,Sapphire Direct,Facebook,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,626,8,73,9868,10,4774.26,33877.68,7.1,341.02,Karachi
+POST_0289,Sapphire Festive,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,51,1,3,714,21,806.74,11098.55,13.76,403.37,Islamabad
+POST_0290,Engine Outlet,Facebook,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,220,3,19,4009,32,1552.3,8219.38,5.29,310.46,Lahore
+POST_0291,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,248,3,37,3084,40,1703.77,11176.02,6.56,340.75,Islamabad
+POST_0292,Engine Outlet,YouTube,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,202,3,28,5797,43,2370.01,4795.06,2.02,1185.01,Lahore
+POST_0293,Breakout,TikTok,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,1714,28,260,29784,41,7047.08,12653.42,1.8,542.08,Lahore
+POST_0294,Khaadi,Facebook,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,303,5,20,7105,55,3387.97,16914.47,4.99,423.5,Karachi
+POST_0295,Sapphire Festive,Google,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,704,10,79,6367,15,8519.38,24737.61,2.9,1419.9,Karachi
+POST_0296,Sapphire Festive,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,644,12,27,10530,52,6330.09,45323.64,7.16,422.01,Islamabad
+POST_0297,Khaadi,Facebook,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,408,8,34,11047,37,3864.99,12539.48,3.24,773.0,Islamabad
+POST_0298,Generation,TikTok,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,456,7,30,7923,13,1408.58,7229.42,5.13,281.72,Lahore
+POST_0299,Outfitters,Google,ToteBag_Uni_Special,Reel,Canvas Tote Bag,92,1,10,999,48,855.14,0.0,0.0,855.14,Lahore
+POST_0300,Engine Outlet,Google,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,319,4,23,3222,48,3693.96,24642.5,6.67,335.81,Lahore
+POST_0301,Breakout,Facebook,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,391,7,33,7792,43,3262.09,10593.04,3.25,543.68,Rawalpindi
+POST_0302,Khaadi,TikTok,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,565,10,88,9361,44,2201.79,4468.58,2.03,550.45,Rawalpindi
+POST_0303,Sapphire Direct,Google,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,40,1,5,849,35,877.31,27834.43,31.73,109.66,Islamabad
+POST_0304,Outfitters,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,138,1,24,1612,8,822.97,1504.7,1.83,822.97,Karachi
+POST_0305,Khaadi Online,TikTok,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,475,10,31,9775,44,1912.48,12144.55,6.35,159.37,Karachi
+POST_0306,Limelight,Facebook,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,229,4,14,6556,40,2769.1,2285.55,0.83,2769.1,Lahore
+POST_0307,Limelight,Facebook,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,777,16,57,22207,36,9749.01,43012.53,4.41,649.93,Faisalabad
+POST_0308,Sapphire Direct,TikTok,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,1541,19,115,21488,18,4434.69,17197.81,3.88,316.76,Faisalabad
+POST_0309,Limelight Official,TikTok,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,1886,36,155,44892,4,9539.44,42524.04,4.46,264.98,Rawalpindi
+POST_0310,Breakout,Google,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,97,2,16,1289,16,1345.98,5003.72,3.72,672.99,Islamabad
+POST_0311,Khaadi,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,440,7,32,4345,41,4653.58,15678.15,3.37,1163.39,Islamabad
+POST_0312,Sapphire Festive,Google,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,111,1,12,1121,41,1108.63,0.0,0.0,972.48,Karachi
+POST_0313,Khaadi,Instagram,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,909,15,120,13579,4,7012.39,21542.31,3.07,701.24,Lahore
+POST_0314,Khaadi,Facebook,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,188,4,32,5397,37,2547.03,9056.9,3.56,636.76,Rawalpindi
+POST_0315,Breakout Sale,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,69,2,9,1991,24,983.2,1411.7,1.44,983.2,Multan
+POST_0316,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,190,3,30,2629,58,1363.55,14520.59,10.65,194.79,Karachi
+POST_0317,Breakout Sale,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,138,2,7,1811,26,985.28,3247.72,3.3,492.64,Lahore
+POST_0318,Breakout,Instagram,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,118,2,14,1967,29,1006.41,5119.1,5.09,201.28,Lahore
+POST_0319,Khaadi Online,Google,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,48,1,5,843,53,907.02,2896.17,3.19,907.02,Karachi
+POST_0320,Sapphire Direct,YouTube,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,203,2,23,5827,10,2491.14,6311.06,2.53,1245.57,Karachi
+POST_0321,Khaadi Online,Google,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,709,21,81,13941,48,19021.2,78956.43,4.15,704.49,Lahore
+POST_0322,Khaadi Luxury,YouTube,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,1415,20,150,40447,12,21806.48,22647.78,1.04,4361.3,Islamabad
+POST_0323,The Tote Bag Club PK,YouTube,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,635,8,112,18159,4,7669.45,27403.16,3.57,766.94,Lahore
+POST_0324,Limelight Official,YouTube,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,89,1,14,2545,31,919.41,3225.72,3.51,919.41,Lahore
+POST_0325,Khaadi,TikTok,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,778,14,50,15356,39,3011.94,4956.21,1.65,752.99,Multan
+POST_0326,Breakout,TikTok,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,2818,42,175,53197,37,10538.27,14739.52,1.4,585.46,Peshawar
+POST_0327,Limelight Official,Google,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,380,9,22,5849,46,6410.67,88822.6,13.86,291.39,Rawalpindi
+POST_0328,Generation,Facebook,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,151,3,8,3749,38,1752.34,9982.61,5.7,584.11,Lahore
+POST_0329,Limelight Official,Facebook,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,780,10,31,13866,3,5296.57,50524.84,9.54,331.04,Islamabad
+POST_0330,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,286,5,24,4559,2,2430.53,14788.05,6.08,303.82,Peshawar
+POST_0331,Sapphire Festive,Instagram,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,771,16,103,14801,60,9214.23,102196.72,11.09,297.23,Faisalabad
+POST_0332,Khaadi Luxury,Instagram,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,705,11,111,9587,38,5510.97,48872.97,8.87,250.5,Karachi
+POST_0333,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,435,6,64,5241,60,2983.74,10974.82,3.68,298.37,Peshawar
+POST_0334,Outfitters,TikTok,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,1054,15,56,16517,35,3301.61,10403.8,3.15,300.15,Islamabad
+POST_0335,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,1026,22,86,22684,30,12337.41,34924.74,2.83,456.94,Karachi
+POST_0336,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,954,14,120,11758,21,6841.12,43458.02,6.35,220.68,Lahore
+POST_0337,Sapphire,Google,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,466,5,40,3786,57,4649.32,8373.8,1.8,1549.77,Peshawar
+POST_0338,Sapphire,TikTok,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,5505,72,686,79637,10,18115.95,29039.16,1.6,696.77,Islamabad
+POST_0339,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,195,5,21,4614,37,2389.21,29397.78,12.3,125.75,Karachi
+POST_0340,Generation,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,197,3,19,4259,36,1914.91,5860.33,3.06,957.46,Karachi
+POST_0341,Breakout,Facebook,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,1037,19,111,29637,46,11726.68,30444.41,2.6,558.41,Karachi
+POST_0342,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,1106,15,84,12775,42,8462.27,54059.4,6.39,228.71,Lahore
+POST_0343,Outfitters,Facebook,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,100,1,7,2074,46,817.91,4984.96,6.09,272.64,Lahore
+POST_0344,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,159,2,13,1780,7,962.14,9917.81,10.31,192.43,Karachi
+POST_0345,Sapphire Direct,Facebook,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,205,3,15,4320,30,1683.32,16207.16,9.63,240.47,Lahore
+POST_0346,Sapphire Direct,Google,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,286,4,41,3143,9,3519.07,31806.52,9.04,270.7,Multan
+POST_0347,Khaadi Luxury,TikTok,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,1044,20,80,22125,35,4433.37,15008.31,3.39,443.34,Gujranwala
+POST_0348,Generation,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,90,2,8,2366,35,1217.79,6574.37,5.4,405.93,Islamabad
+POST_0349,Limelight Official,TikTok,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,927,21,41,21165,41,5460.55,13723.81,2.51,390.04,Faisalabad
+POST_0350,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,165,2,11,1300,27,1461.67,3059.15,2.09,1461.67,Karachi
+POST_0351,Sapphire Festive,Instagram,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,473,9,59,7801,8,4193.35,16595.62,3.96,599.05,Karachi
+POST_0352,Khaadi Luxury,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,440,10,41,11846,2,5554.49,17722.68,3.19,925.75,Lahore
+POST_0353,Outfitters,Facebook,ToteBag_Uni_Special,Reel,Canvas Tote Bag,554,9,96,10483,7,5287.27,14846.31,2.81,660.91,Karachi
+POST_0354,Gul Ahmed,YouTube,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,267,3,34,7648,49,2822.54,0.0,0.0,1221.88,Karachi
+POST_0355,Outfitters,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,135,4,15,3137,21,2887.96,5646.42,1.96,1443.98,Rawalpindi
+POST_0356,Breakout Sale,Instagram,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,547,8,72,7416,31,3446.71,21978.49,6.38,246.19,Karachi
+POST_0357,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,96,1,4,1119,42,1086.37,4603.37,4.24,543.18,Multan
+POST_0358,Outfitters Clearance,TikTok,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,495,12,60,14155,54,2479.08,6972.36,2.81,247.91,Karachi
+POST_0359,Breakout,Instagram,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,197,4,11,3482,11,1867.31,6735.26,3.61,466.83,Islamabad
+POST_0360,Breakout,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,73,2,11,2082,42,921.21,4094.3,4.44,230.3,Lahore
+POST_0361,Outfitters Clearance,YouTube,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,607,8,24,17368,7,7320.15,10953.66,1.5,1464.03,Rawalpindi
+POST_0362,Khaadi Luxury,Facebook,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,794,17,108,22687,40,10393.04,34276.89,3.3,944.82,Islamabad
+POST_0363,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,220,5,16,3706,41,3978.88,13784.34,3.46,795.78,Islamabad
+POST_0364,Outfitters,Instagram,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,338,10,55,8090,48,4741.01,14684.35,3.1,296.31,Quetta
+POST_0365,Sapphire Festive,Facebook,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,307,5,50,6931,11,3215.14,20623.64,6.41,643.03,Karachi
+POST_0366,Limelight Official,YouTube,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,692,9,47,18304,10,8018.52,25649.0,3.2,1336.42,Rawalpindi
+POST_0367,Sapphire,Facebook,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,251,4,28,6708,57,2707.75,21899.12,8.09,300.86,Karachi
+POST_0368,Sapphire,TikTok,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,947,20,114,21773,59,5073.11,10031.58,1.98,563.68,Islamabad
+POST_0369,Breakout Sale,Google,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,95,2,13,1883,13,1753.74,15296.14,8.72,350.75,Sialkot
+POST_0370,Generation,Google,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,788,10,39,7711,59,8689.98,31519.32,3.63,1086.25,Karachi
+POST_0371,Limelight Official,Facebook,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,782,16,36,19723,26,10498.84,47519.52,4.53,656.18,Karachi
+POST_0372,Sapphire Festive,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,98,2,10,1167,55,1333.64,7171.03,5.38,666.82,Karachi
+POST_0373,Generation,TikTok,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,2879,35,297,36647,25,8073.13,28729.79,3.56,384.43,Karachi
+POST_0374,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,119,3,7,3020,47,1274.55,16676.87,13.08,127.45,Karachi
+POST_0375,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,1537,18,185,15934,30,10075.06,29028.23,2.88,530.27,Rawalpindi
+POST_0376,Generation,Google,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,239,3,20,1909,9,2173.89,21388.68,9.84,434.78,Lahore
+POST_0377,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,41,1,5,988,16,915.14,2117.64,2.31,915.14,Lahore
+POST_0378,Khaadi Online,Facebook,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,330,7,42,9455,39,3535.47,13717.73,3.88,505.07,Karachi
+POST_0379,Outfitters,Facebook,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,274,4,47,5344,60,2411.8,4617.74,1.91,803.93,Karachi
+POST_0380,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,413,9,36,7662,30,4308.79,10336.06,2.4,861.76,Islamabad
+POST_0381,The Tote Bag Club PK,Facebook,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,76,1,13,2199,35,817.8,0.0,0.0,757.22,Rawalpindi
+POST_0382,Limelight Official,Google,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,239,7,23,4809,60,5620.04,37488.77,6.67,432.31,Karachi
+POST_0383,Outfitters,Instagram,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,157,3,18,3306,31,1509.97,7655.17,5.07,251.66,Lahore
+POST_0384,Outfitters,Facebook,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,155,2,16,2678,43,1161.48,5321.11,4.58,387.16,Islamabad
+POST_0385,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,284,4,12,4456,50,2240.97,10124.7,4.52,448.19,Lahore
+POST_0386,Gul Ahmed,Facebook,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,352,5,62,7180,54,2947.16,18966.55,6.44,421.02,Karachi
+POST_0387,Limelight,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,199,5,12,5436,19,2404.27,4165.16,1.73,1202.13,Quetta
+POST_0388,Sapphire,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,346,9,18,8274,50,4593.17,17951.04,3.91,510.35,Karachi
+POST_0389,Outfitters,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,118,2,19,1476,12,1615.95,3940.78,2.44,807.98,Rawalpindi
+POST_0390,Sapphire Festive,Instagram,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,118,1,13,1472,46,802.59,14512.82,18.08,160.52,Karachi
+POST_0391,Limelight,Instagram,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,337,4,18,3627,10,2134.03,14431.95,6.76,304.86,Multan
+POST_0392,Gul Ahmed,TikTok,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,439,7,19,6547,54,1340.51,6631.75,4.95,268.1,Rawalpindi
+POST_0393,Sapphire Festive,YouTube,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,537,7,53,15348,14,5752.13,14902.87,2.59,1438.03,Faisalabad
+POST_0394,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,157,3,26,2592,13,2778.15,8730.85,3.14,555.63,Karachi
+POST_0395,Breakout Sale,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,482,10,30,10418,34,5451.63,21098.94,3.87,419.36,Islamabad
+POST_0396,Limelight Official,Facebook,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,525,10,64,15024,30,6437.79,26332.51,4.09,715.31,Karachi
+POST_0397,Khaadi,Facebook,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,387,8,21,10646,20,4480.1,12513.9,2.79,896.02,Islamabad
+POST_0398,Sapphire Festive,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,222,3,29,2991,27,1487.69,7620.75,5.12,495.9,Karachi
+POST_0399,Khaadi,Google,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,329,4,58,2786,6,3383.12,15149.78,4.48,676.62,Rawalpindi
+POST_0400,Sapphire Direct,Google,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,206,3,30,2530,51,2775.71,8561.32,3.08,925.24,Karachi
+POST_0401,Khaadi Luxury,Facebook,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,507,7,90,8701,34,3988.95,12512.23,3.14,797.79,Faisalabad
+POST_0402,Breakout,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,870,12,95,9730,3,6108.64,18884.57,3.09,407.24,Karachi
+POST_0403,Khaadi,YouTube,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,104,1,16,2540,9,1036.71,0.0,0.0,1036.71,Multan
+POST_0404,Breakout Sale,Google,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,95,2,4,1270,13,1388.3,13294.69,9.58,231.38,Karachi
+POST_0405,Generation,Instagram,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,297,5,24,5050,26,2804.2,5353.5,1.91,1402.1,Lahore
+POST_0406,Khaadi Luxury,Instagram,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,1177,19,109,16390,45,9799.05,28696.38,2.93,979.9,Lahore
+POST_0407,Limelight Official,TikTok,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,873,22,115,24960,29,4783.05,9837.41,2.06,683.29,Islamabad
+POST_0408,Sapphire Festive,TikTok,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,1937,30,237,35789,19,8325.9,13090.95,1.57,925.1,Lahore
+POST_0409,Limelight Official,TikTok,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,1242,28,154,35475,27,6145.09,23388.4,3.81,341.39,Rawalpindi
+POST_0410,Khaadi Luxury,Instagram,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,241,5,13,5500,53,2541.59,14814.45,5.83,508.32,Rawalpindi
+POST_0411,The Tote Bag Club PK,Facebook,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,579,7,58,9862,18,3979.06,15111.2,3.8,497.38,Multan
+POST_0412,Generation,Google,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,194,4,25,3122,59,3221.39,13397.16,4.16,805.35,Lahore
+POST_0413,Generation,Facebook,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,488,8,67,9132,59,4074.51,3295.39,0.81,4074.51,Lahore
+POST_0414,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,469,8,76,5690,51,5822.51,35903.7,6.17,529.32,Islamabad
+POST_0415,Sapphire Festive,Facebook,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,1002,17,89,22886,40,10570.21,93383.02,8.83,480.46,Islamabad
+POST_0416,Breakout Sale,Facebook,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,135,2,10,2372,45,1152.03,2130.49,1.85,1152.03,Lahore
+POST_0417,Sapphire Festive,TikTok,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,607,12,57,15287,26,2701.94,0.0,0.0,303.25,Karachi
+POST_0418,Khaadi,YouTube,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,80,1,8,2297,60,816.01,2966.78,3.64,816.01,Islamabad
+POST_0419,Khaadi Luxury,Google,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,178,2,11,2062,57,1934.59,15726.3,8.13,483.65,Lahore
+POST_0420,Sapphire Direct,Facebook,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,173,3,11,4106,15,2005.73,4208.87,2.1,1002.87,Karachi
+POST_0421,Khaadi Online,Facebook,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,284,3,12,5801,18,2362.39,17260.5,7.31,393.73,Karachi
+POST_0422,Generation,Instagram,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,429,12,45,12272,57,5749.17,18805.69,3.27,821.31,Karachi
+POST_0423,Sapphire Festive,TikTok,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,564,9,46,10975,27,1962.88,10121.57,5.16,327.15,Faisalabad
+POST_0424,Outfitters,YouTube,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,229,3,19,6561,10,2773.08,7048.86,2.54,924.36,Lahore
+POST_0425,Outfitters,TikTok,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,1880,24,319,29639,35,5628.35,9877.13,1.75,432.95,Karachi
+POST_0426,Breakout Sale,Instagram,Flash_Clearance_Sale,Influencer Post,Clearance Pret Kurti,515,8,35,7691,2,3968.44,7341.25,1.85,661.41,Rawalpindi
+POST_0427,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,209,3,36,3568,55,1657.93,13262.87,8.0,236.85,Lahore
+POST_0428,Breakout Sale,Google,Flash_Clearance_Sale,Styling Video,Clearance Pret Kurti,309,7,40,5179,23,5979.7,21808.5,3.65,597.97,Lahore
+POST_0429,Khaadi,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,410,5,38,3858,27,3959.26,10094.27,2.55,989.82,Lahore
+POST_0430,Breakout Sale,TikTok,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,3188,43,419,44467,9,10679.93,17307.76,1.62,508.57,Karachi
+POST_0431,Breakout,TikTok,ToteBag_Uni_Special,Reel,Canvas Tote Bag,798,22,105,22266,13,5024.7,9139.19,1.82,334.98,Multan
+POST_0432,Limelight,Instagram,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,424,12,24,12127,14,5617.01,19237.4,3.42,561.7,Rawalpindi
+POST_0433,Khaadi,Facebook,Lawn_Summer_Pret_2026,Product Photo,Stitched Lawn Pret,481,7,68,7426,30,3371.19,5443.99,1.61,1685.6,Islamabad
+POST_0434,Generation,Instagram,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,548,10,53,8945,33,5598.68,30199.96,5.39,430.67,Karachi
+POST_0435,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,280,4,32,4085,19,2314.56,1401.09,0.61,2314.56,Karachi
+POST_0436,The Tote Bag Club PK,TikTok,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,1577,33,105,39883,24,7957.68,12229.73,1.54,530.51,Karachi
+POST_0437,Sapphire,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,439,5,54,5088,8,2747.05,7994.5,2.91,686.76,Karachi
+POST_0438,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,51,1,6,1030,57,1043.55,2520.44,2.42,1043.55,Islamabad
+POST_0439,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,136,3,13,2101,34,2385.23,8196.28,3.44,596.31,Karachi
+POST_0440,Sapphire Festive,TikTok,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,532,13,93,15226,51,3197.11,3313.37,1.04,1598.56,Lahore
+POST_0441,Sapphire Festive,Google,Eid_Festive_Collection,Sale Announcement,Luxury Festive Silk Pret,128,2,14,1416,6,1229.32,7552.96,6.14,614.66,Faisalabad
+POST_0442,Sapphire Festive,Instagram,Eid_Festive_Collection,Product Photo,Luxury Festive Silk Pret,290,5,13,4894,43,2431.14,11569.98,4.76,607.78,Karachi
+POST_0443,Breakout Sale,Instagram,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,584,18,46,16707,35,9312.63,55763.04,5.99,291.02,Islamabad
+POST_0444,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,48,1,2,918,52,869.63,4076.64,4.69,869.63,Islamabad
+POST_0445,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,393,5,70,5097,9,2654.08,8519.83,3.21,442.35,Karachi
+POST_0446,Outfitters,Instagram,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,286,4,11,4026,23,2004.44,10256.52,5.12,250.56,Peshawar
+POST_0447,Sapphire,Facebook,Lawn_Summer_Pret_2026,Influencer Post,Stitched Lawn Pret,258,5,34,7263,54,3010.73,6457.21,2.14,1003.58,Peshawar
+POST_0448,Sapphire Direct,Google,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,59,1,8,1352,55,1279.03,20142.18,15.75,213.17,Lahore
+POST_0449,Outfitters Clearance,Facebook,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,593,8,63,9711,30,4127.08,12727.36,3.08,589.58,Rawalpindi
+POST_0450,Outfitters,Google,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,601,8,65,5078,28,5753.39,7964.35,1.38,1150.68,Peshawar
+POST_0451,Khaadi Luxury,Google,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,71,2,8,1486,60,1234.34,14555.36,11.79,411.45,Rawalpindi
+POST_0452,Khaadi Online,Google,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,166,3,13,2672,35,2450.77,23832.31,9.72,350.11,Islamabad
+POST_0453,Sapphire Direct,Google,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,54,2,3,1422,52,1230.05,2915.41,2.37,1230.05,Lahore
+POST_0454,Khaadi Luxury,TikTok,Eid_Festive_Collection,Reel,Luxury Festive Silk Pret,1033,14,112,14605,9,3159.19,12737.93,4.03,394.9,Karachi
+POST_0455,Outfitters,YouTube,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,209,2,18,5531,4,2423.94,4152.38,1.71,1211.97,Karachi
+POST_0456,Limelight Official,Instagram,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,159,2,22,2011,38,905.44,2041.87,2.26,905.44,Karachi
+POST_0457,Khaadi,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,392,7,26,5672,41,3476.8,15120.36,4.35,434.6,Karachi
+POST_0458,Khaadi Online,Facebook,Retargeting_Abandoned_Cart,Eid Collection Showcase,Lawn 3-Piece Stitched,244,3,29,4562,7,1659.94,10862.24,6.54,331.99,Karachi
+POST_0459,Outfitters,Facebook,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,359,7,15,10281,35,3950.74,11446.49,2.9,493.84,Karachi
+POST_0460,Khaadi Online,Facebook,Retargeting_Abandoned_Cart,Influencer Post,Lawn 3-Piece Stitched,298,3,40,4856,5,2095.16,12049.16,5.75,419.03,Islamabad
+POST_0461,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,205,5,12,4286,59,4622.8,17451.93,3.78,660.4,Peshawar
+POST_0462,Breakout,Facebook,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,111,1,8,1710,22,810.75,2749.31,3.39,405.38,Faisalabad
+POST_0463,Khaadi,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,121,4,15,2866,60,2859.11,15024.4,5.25,714.78,Karachi
+POST_0464,Limelight,Facebook,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,317,8,40,9061,15,3977.86,17667.47,4.44,568.27,Sialkot
+POST_0465,Khaadi Luxury,TikTok,Eid_Festive_Collection,Styling Video,Luxury Festive Silk Pret,643,15,31,18373,60,3451.71,9972.46,2.89,575.28,Lahore
+POST_0466,Gul Ahmed,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,880,11,113,10743,50,5640.57,18741.73,3.32,705.07,Islamabad
+POST_0467,Outfitters,Google,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,205,2,28,2056,50,1980.48,6593.87,3.33,660.16,Lahore
+POST_0468,Breakout,Instagram,ToteBag_Uni_Special,Reel,Canvas Tote Bag,637,8,98,7942,30,3808.32,13425.49,3.53,380.83,Karachi
+POST_0469,The Tote Bag Club PK,YouTube,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,487,5,38,13921,60,5161.8,10642.9,2.06,1032.36,Lahore
+POST_0470,Outfitters,Google,ToteBag_Uni_Special,Reel,Canvas Tote Bag,378,9,62,6771,47,6007.96,12114.13,2.02,858.28,Faisalabad
+POST_0471,Engine Outlet,Google,Flash_Clearance_Sale,Styling Video,Clearance Pret Kurti,128,3,15,2544,49,2291.1,9224.37,4.03,458.22,Karachi
+POST_0472,Breakout,Facebook,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,470,7,31,9338,45,3418.39,15718.14,4.6,427.3,Islamabad
+POST_0473,Outfitters,Instagram,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,334,8,45,7090,31,3978.2,2946.06,0.74,1989.1,Lahore
+POST_0474,Khaadi,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,232,5,31,5217,6,2872.47,12618.04,4.39,319.16,Lahore
+POST_0475,Khaadi Luxury,Google,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,99,1,12,1198,23,1131.64,4335.21,3.83,1131.64,Lahore
+POST_0476,Khaadi Online,Instagram,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,151,2,26,2792,55,1140.15,9579.9,8.4,190.03,Lahore
+POST_0477,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Sale Announcement,Canvas Tote Bag,385,7,56,5661,42,3034.91,7402.47,2.44,606.98,Karachi
+POST_0478,Limelight,Google,Lawn_Summer_Pret_2026,Reel,Stitched Lawn Pret,235,7,11,4406,5,4848.86,27264.63,5.62,606.11,Multan
+POST_0479,Gul Ahmed,Facebook,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,265,3,39,4574,31,1814.99,4392.47,2.42,907.5,Karachi
+POST_0480,Khaadi,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,434,7,53,4734,55,5168.46,23855.67,4.62,738.35,Rawalpindi
+POST_0481,The Tote Bag Club PK,Instagram,ToteBag_Uni_Special,Product Photo,Canvas Tote Bag,138,3,13,2696,43,1453.61,3047.8,2.1,726.8,Karachi
+POST_0482,Gul Ahmed,Google,Lawn_Summer_Pret_2026,Sale Announcement,Stitched Lawn Pret,97,2,8,1352,2,1495.28,10345.58,6.92,373.82,Lahore
+POST_0483,Generation,Google,Eid_Festive_Collection,Eid Collection Showcase,Luxury Festive Silk Pret,87,1,4,978,24,1063.57,3419.0,3.21,1063.57,Karachi
+POST_0484,Limelight Official,Google,Retargeting_Abandoned_Cart,Product Photo,Lawn 3-Piece Stitched,159,2,13,1400,44,1464.53,12577.61,8.59,366.13,Lahore
+POST_0485,Sapphire Direct,Instagram,Retargeting_Abandoned_Cart,Sale Announcement,Lawn 3-Piece Stitched,410,7,35,5647,21,3129.83,19984.41,6.39,284.53,Lahore
+POST_0486,Khaadi Online,Google,Retargeting_Abandoned_Cart,Styling Video,Lawn 3-Piece Stitched,106,1,18,1182,23,1067.31,9325.99,8.74,355.77,Islamabad
+POST_0487,Sapphire,Google,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,115,3,20,2105,25,2019.42,7705.25,3.82,1009.71,Islamabad
+POST_0488,The Tote Bag Club PK,Google,ToteBag_Uni_Special,Influencer Post,Canvas Tote Bag,637,12,81,7932,60,9384.95,31362.53,3.34,782.08,Lahore
+POST_0489,Outfitters,Google,ToteBag_Uni_Special,Eid Collection Showcase,Canvas Tote Bag,144,2,7,1272,15,1413.9,4439.21,3.14,706.95,Lahore
+POST_0490,Gul Ahmed,Facebook,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,73,1,8,2114,53,867.99,0.0,0.0,803.69,Islamabad
+POST_0491,Limelight Official,YouTube,Retargeting_Abandoned_Cart,Reel,Lawn 3-Piece Stitched,721,9,117,20624,10,7811.03,18029.35,2.31,1301.84,Karachi
+POST_0492,Khaadi,Instagram,Lawn_Summer_Pret_2026,Eid Collection Showcase,Stitched Lawn Pret,518,7,84,6859,56,3707.58,9504.88,2.56,617.93,Lahore
+POST_0493,Gul Ahmed,YouTube,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,186,2,12,5315,47,2147.79,9405.95,4.38,715.93,Faisalabad
+POST_0494,Breakout,Google,ToteBag_Uni_Special,Styling Video,Canvas Tote Bag,208,3,25,2862,42,2566.47,7701.66,3.0,641.62,Karachi
+POST_0495,Sapphire,Instagram,Lawn_Summer_Pret_2026,Styling Video,Stitched Lawn Pret,664,16,66,16434,26,7564.3,31242.27,4.13,581.87,Islamabad
+POST_0496,Outfitters Clearance,Facebook,Flash_Clearance_Sale,Product Photo,Clearance Pret Kurti,436,10,22,12459,59,5212.44,16888.22,3.24,400.96,Peshawar
+POST_0497,Engine Outlet,TikTok,Flash_Clearance_Sale,Sale Announcement,Clearance Pret Kurti,798,12,62,11844,47,2389.92,4894.97,2.05,477.98,Islamabad
+POST_0498,Sapphire Festive,Facebook,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,794,14,119,16835,50,7852.46,28941.59,3.69,981.56,Karachi
+POST_0499,Khaadi Luxury,Instagram,Eid_Festive_Collection,Influencer Post,Luxury Festive Silk Pret,696,12,30,9899,10,6128.37,71732.42,11.7,226.98,Lahore
+POST_0500,Outfitters Clearance,TikTok,Flash_Clearance_Sale,Reel,Clearance Pret Kurti,348,5,37,5425,13,1098.55,4060.08,3.7,219.71,Lahore
