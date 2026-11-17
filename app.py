@@ -321,11 +321,12 @@ with tab2:
         fig_lang.update_layout(height=240, margin=dict(l=10, r=10, t=40, b=10))
         st.plotly_chart(fig_lang, use_container_width=True)
         
-        sentiment_intent = df_clustered_comments.groupby(["topic", "sentiment"]).size().unstack(fill_value=0).reset_index()
+        sentiment_intent = df_clustered_comments.groupby(["topic", "sentiment"]).size().reset_index(name="count")
         fig_sent = px.bar(
             sentiment_intent,
             x="topic",
-            y=["Positive", "Neutral", "Negative"],
+            y="count",
+            color="sentiment",
             title="Sentiment Polarity per Intent Category",
             color_discrete_map={"Positive": "#10b981", "Neutral": "#94a3b8", "Negative": "#ef4444"},
             barmode="stack"
