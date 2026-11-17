@@ -65,7 +65,7 @@ class NumberedCanvas(canvas.Canvas):
             self.line(45, 45, 612 - 45, 45)
             self.setFont("Helvetica", 7.5)
             self.setFillColor(colors.HexColor('#64748B'))
-            self.drawString(45, 32, "Strict Project 1 Ingestion Guarantee | Lead Architect: Zughaina")
+            self.drawString(45, 32, "Strict Project 1 Ingestion | GitHub: github.com/zughaina3/pakistan-social-audience-intelligence-engine")
             self.drawRightString(612 - 45, 32, f"Page {self._pageNumber} of {total_pages}")
             
             self.restoreState()
@@ -271,7 +271,7 @@ def generate_pdf_report():
     meta_data = [
         [
             Paragraph("<b>Author & Lead Architect:</b> Zughaina (Lead CRO & ML Engineer)", tb_style),
-            Paragraph("<b>Execution Environment:</b> Production Python 3.14 + Streamlit Engine", tb_style)
+            Paragraph("<b>GitHub Repository:</b> <a href='https://github.com/zughaina3/pakistan-social-audience-intelligence-engine'><font color='#01696F'><u>github.com/zughaina3/pakistan-social-audience-intelligence-engine</u></font></a>", tb_style)
         ],
         [
             Paragraph("<b>Dataset Provenance:</b> 100% Strict Project 1 Ingestion (No Synthetic Data)", tb_style),
@@ -279,7 +279,7 @@ def generate_pdf_report():
         ],
         [
             Paragraph("<b>Macroeconomic Linkage:</b> Project 1 SLSQP Optimizer (Rs. 1M Budget, 4.37x ROAS)", tb_style),
-            Paragraph("<b>Status:</b> Production Ready & Fully Audited", tb_style)
+            Paragraph("<b>Project 1 Source:</b> <a href='https://github.com/zughaina3/pakistan-digital-advertising-budget-optimizer'><font color='#01696F'><u>pakistan-digital-advertising-budget-optimizer</u></font></a>", tb_style)
         ]
     ]
     meta_table = Table(meta_data, colWidths=[260, 262])
@@ -813,7 +813,7 @@ def generate_pdf_report():
     signoff_data = [
         [
             Paragraph("<b>Report Prepared By:</b><br/>Zughaina<br/>Lead CRO & ML Architect", tb_style),
-            Paragraph("<b>Verified System Architecture:</b><br/>Project 3: Pakistan Social Intelligence Engine<br/>Linked to Project 1 Optimization Engine", tb_style),
+            Paragraph("<b>Open-Source GitHub Repository:</b><br/><a href='https://github.com/zughaina3/pakistan-social-audience-intelligence-engine'><font color='#01696F'><u>zughaina3/pakistan-social-audience-intelligence-engine</u></font></a>", tb_style),
             Paragraph("<b>Sign-Off & Status:</b><br/><font color='#059669'><b>APPROVED FOR PRODUCTION</b></font><br/>November 2026", tb_style)
         ]
     ]
